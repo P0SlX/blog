@@ -1,5 +1,5 @@
 # Remplacement de la SFR Box 7 Plus
-Ce gist parle d'un remplacement d'une SFR Box 7 Plus par un ONT7-SFU de chez Altice avec un PC portable x86 derrière et un routeur Xiaomi configuré en "Dump AP" pour le sans-fil.
+Cet article parle d'un remplacement d'une SFR Box 7 Plus par un ONT7-SFU de chez Altice avec un PC portable x86 derrière et un routeur Xiaomi configuré en "Dump AP" pour le sans-fil.
 ## Pourquoi ?
 La box marche bien alors pourquoi vouloir la remplacer ?
 **La flexibilité.**
